@@ -8,7 +8,9 @@
 - Entry-level MCA graduate with a strong foundation in backend development and databases  
 - Hands-on experience building RESTful applications using **Java, Spring Boot, and MySQL**  
 - Completed **Software Engineering Job Simulation at JPMorgan Chase & Co. (Forage)**  
-- Actively learning and eager to contribute to real-world software projects  
+- Actively learning and eager to contribute to real-world software projects
+- - Currently improving skills in Spring Boot, REST APIs, and SQL through hands-on projects
+ 
 
 ---
 
