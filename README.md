@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Preetham G S</h1>
 <h3 align="center">MCA Graduate | Backend Developer | Java & Spring Boot</h3>
 
-- 💬 Ask me about **I am an entry-level MCA graduate with a strong foundation in backend development and database management. I have hands-on experience building RESTful applications using Java and Spring Boot, working with MySQL, and testing APIs using Postman. I have completed a Software Engineering Job Simulation with JPMorgan Chase & Co., where I worked on backend services, data persistence, and API integration. I am eager to learn new technologies and contribute to real-world software projects.**
+- 💬 **I am an entry-level MCA graduate with a strong foundation in backend development and database management. I have hands-on experience building RESTful applications using Java and Spring Boot, working with MySQL, and testing APIs using Postman. I have completed a Software Engineering Job Simulation with JPMorgan Chase & Co., where I worked on backend services, data persistence, and API integration. I am eager to learn new technologies and contribute to real-world software projects.**
 
-- 📫 How to reach me **ppreethu657@gmail.com**
+- 📫**ppreethu657@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
