@@ -22,7 +22,7 @@
 ---
 
 ### 📂 Projects
-🔹 **Student Management System**  
+🔹 **Student Management System** (https://github.com/preeeethuuu/student-management-system.git)
 - Spring Boot REST APIs with CRUD operations  
 - MySQL integration using Spring Data JPA  
 - API testing using Postman  
