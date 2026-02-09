@@ -27,7 +27,7 @@
 - MySQL integration using Spring Data JPA  
 - API testing using Postman  
 
-🔹 **TODO / Task Management System**  
+🔹 **TODO / Task Management System** (https://github.com/preeeethuuu/Task-Management-Application.git)
 - Backend developed using Spring Boot & JPA  
 - Simple frontend using HTML, CSS, JavaScript  
 
