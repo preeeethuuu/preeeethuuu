@@ -31,7 +31,7 @@
 - Backend developed using Spring Boot & JPA  
 - Simple frontend using HTML, CSS, JavaScript  
 
-🔹 **Fruit Ripeness Detection & Quality Grading (Academic Project)**  
+🔹 **Fruit Ripeness Detection & Quality Grading (Academic Project)** (https://github.com/preeeethuuu/fruit-ripeness-detection.git)
 - YOLOv8 for fruit detection  
 - MobileNetV2 for ripeness classification  
 
