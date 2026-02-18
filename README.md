@@ -39,4 +39,4 @@
 
 ### 📫 Connect with Me
 - 📧 Email: [ppreethu657@gmail.com](mailto:ppreethu657@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/preethu0706](https://www.linkedin.com/in/preethu0706)
+- 💼 LinkedIn: [linkedin.com/in/preethu0706](https://www.linkedin.com/in/preethugs)
